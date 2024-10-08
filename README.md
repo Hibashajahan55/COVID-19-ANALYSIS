@@ -12,5 +12,5 @@ The COVID-19 pandemic, which began in early 2020, spread rapidly across the glob
 • Active cases in the U.S. stand at approximately 2.29 million, and serious or critical cases are reported at 18,296.
 • Active cases are incresed onwards March
 
-#CONCLUSION
+# CONCLUSION
 COVID-19 has highlighted the importance of global cooperation, robust healthcare systems, and rapid medical innovation. While vaccines have helped in reducing severe cases and deaths, new variants continue to pose a challenge. The pandemic underscored the need for future preparedness against global health crises and the value of public health measures in mitigating their effects.
